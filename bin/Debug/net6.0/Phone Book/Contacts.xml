@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contacts>
+    <Name>said</Name>
+    <PhoneNumber>94577534</PhoneNumber>
+  </Contacts>
+  <Contacts>
+    <Name>mohd</Name>
+    <PhoneNumber>428732737</PhoneNumber>
+  </Contacts>
+  <Contacts>
+    <Name>said</Name>
+    <PhoneNumber>9428832</PhoneNumber>
+  </Contacts>
+</ArrayOfContacts>

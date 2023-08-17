@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\bin\Debug\net6.0\cSharp_PhonebookApplication.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\bin\Debug\net6.0\cSharp_PhonebookApplication.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\bin\Debug\net6.0\cSharp_PhonebookApplication.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\bin\Debug\net6.0\cSharp_PhonebookApplication.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\bin\Debug\net6.0\cSharp_PhonebookApplication.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\refint\cSharp_PhonebookApplication.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\cSharp_PhonebookApplication.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp_PhonebookApplication\obj\Debug\net6.0\ref\cSharp_PhonebookApplication.dll
